@@ -1,0 +1,22 @@
+# French translations for jhorstmannTesti18n package.
+# Copyright (C) 2018 THE jhorstmannTesti18n'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the jhorstmannTesti18n package.
+# Automatically generated, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: jhorstmannTesti18n 0.0.1-SNAPSHOT\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-11-07 15:38+0700\n"
+"PO-Revision-Date: 2018-11-07 15:38+0700\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: com/khmerdev/jhorstmannTesti18n/App.main([Ljava/lang/String;)V
+msgid "Hello World!"
+msgstr "Bonjour le monde"
